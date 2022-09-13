@@ -1,8 +1,8 @@
 ### Olá eu sou o Vinícius Arce.
 
 
-- 🔭 Hoje eu trabalho como IT Analyst monitoring
-- 🌱 Estudando Java.
+- 🔭 Software Development Analyst I
+- 🌱 Estudando Java e Golang.
 - 📫 Para me contatar: viniciusnewz@gmail.com
 
 <div align="center">
